@@ -1,0 +1,9 @@
+{
+	"name": "TestingADFSUBBU53",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e38577d-2340-42bb-a2d2-1157aa148c96",
+		"tenantId": "10fa2eae-4c03-4e7f-a3d3-4015975b0cd3"
+	}
+}
